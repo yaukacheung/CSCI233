@@ -1,0 +1,23 @@
+=== Empty Array Edge Case ===
+--- INPUT ---
+3
+6
+--- OUTPUT ---
+
+--- Grade Tracker Menu ---
+1. Add a grade
+2. Remove a grade
+3. Show all grades
+4. Show average grade
+5. Show highest and lowest grade (Challenge)
+6. Exit
+Enter choice (1-6): The grade list is currently empty.
+
+--- Grade Tracker Menu ---
+1. Add a grade
+2. Remove a grade
+3. Show all grades
+4. Show average grade
+5. Show highest and lowest grade (Challenge)
+6. Exit
+Enter choice (1-6): Exiting Grade Tracker...

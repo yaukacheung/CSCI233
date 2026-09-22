@@ -1,0 +1,38 @@
+# Testing the Interactive Grade Tracker
+# Because the program is interactive, our expected output must exactly match 
+# the menu prints and input prompts that the program generates!
+
+=== Add and View Grade ===
+--- INPUT ---
+1
+95
+3
+6
+--- OUTPUT ---
+
+--- Grade Tracker Menu ---
+1. Add a grade
+2. Remove a grade
+3. Show all grades
+4. Show average grade
+5. Show highest and lowest grade (Challenge)
+6. Exit
+Enter choice (1-6): Enter grade to add: Grade 95.0 added successfully.
+
+--- Grade Tracker Menu ---
+1. Add a grade
+2. Remove a grade
+3. Show all grades
+4. Show average grade
+5. Show highest and lowest grade (Challenge)
+6. Exit
+Enter choice (1-6): Current Grades: [95.0]
+
+--- Grade Tracker Menu ---
+1. Add a grade
+2. Remove a grade
+3. Show all grades
+4. Show average grade
+5. Show highest and lowest grade (Challenge)
+6. Exit
+Enter choice (1-6): Exiting Grade Tracker...
