@@ -14,6 +14,15 @@
     - Create `weather.py`.
     - Use a public API (like OpenWeatherMap or a mock endpoint) to fetch weather data for a city entered by the user.
     - Print the temperature and description.
+## Activate the virtual environment
+- Windows — Command Prompt
+`venv\Scripts\activate.bat`
+
+- Windows — PowerShell
+`venv\Scripts\Activate.ps1`
+
+- macOS or Linux
+`source venv/bin/activate`
 
 ## Challenge
 - Handle network errors (like no internet connection) using `try/except`.
